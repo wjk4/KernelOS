@@ -1,38 +1,38 @@
 <h1 align="center">
 <img src="https://github.com/Velytics/KernelOS/blob/main/img/Wallpaper.jpg" alt="Banner"</img>
   <br>
-  KernelOS
+  Kernel OS
   <br>
 </h1>
-<h4 align="center">Una modificación del sistema operativo de Windows reformada para el rendimiento y la compatibilidad.</h4>
+<h4 align="center">A modification of the Windows operating system reworked for performance and compatibility.</h4>
 
 <p align="center">
-  <a href="https://github.com/Velytics/KernelOS/wiki/2.-Instalación">Instalación</a>
+  <a href="https://github.com/Velytics/KernelOS/wiki/2.-Installation">Installation</a>
   •
-  <a href="https://github.com/Velytics/KernelOS/wiki/1.-FAQ#contenido">FAQ</a>
-  • 
-  <a href="#Discord">Comunidad</a>
+  <a href="https://github.com/Velytics/KernelOS/wiki/1.-FAQ#content">FAQ</a>
+  •
+  <a href="#Discord">Community</a>
 </p>
 
-## Importante
-KernelOS está configurado y ajustado cuidadosamente para lograr tal estabilidad, al mismo tiempo mantener un rendimiento tan excelente y claro, sin dejar de lado la compatibilidad. 
+## Important
+KernelOS is carefully configured and tuned to achieve such stability, while maintaining such excellent and clear performance, without sacrificing compatibility.
 
-Algunas cosas son muy específicas y están vinculadas únicamente a tu sistema, como drivers, la BIOS, hardware, etc. Cosas como estas, simplemente no pueden ser ajustadas previamente para ti, es imposible hacerlo y aun así mantener ese enfoque universal y altamente compatible. 
+Some things are very specific and tied only to your system, like drivers, BIOS, hardware, etc. Things like this just can't be pre-tuned for you, it's impossible to do that and still maintain that universal and highly compatible approach.
 
-Sin embargo, esto no significa que no puedas modificar estas cosas tú mismo. Las ISO de KernelOS son muy capaces por sí mismas, pero si deseas una experiencia absolutamente óptima, te recomiendo seguir y aplicar la siguiente guía previa y posteriormente a la instalación en tu sistema. 
+However, this does not mean that you cannot modify these things yourself. KernelOS ISOs are very capable on their own, but if you want an absolutely optimal experience, I recommend following and applying the following pre-installation and post-installation guide on your system.
 
-Obtendrás mejores FPS, marcos de tiempo más bajos y estables, mejor entrada y latencia
+You will get better FPS, lower stable time frames, better input and latency
 
-- Esta guía es un proyecto personal que he escrito, lo que significa que no ha sido apoyada por terceros.
-- No asumo ninguna responsabilidad por nada de lo que suceda debido a esta guía, esta guía está escrita línea-por-línea correctamente para su uso correspondiente, por lo que nadie es responsable si algo se rompe en el sistema operativo, como el audio o alguna funcionalidad, o si tú o cualquier otra persona rompe su hardware, periféricos o la instalación del Windows más tarde o cualquier otra cosa por seguir está guía incorrectamente.
+- This guide is a personal project that I have written, which means that it has not been supported by third parties.
+- I do not take any responsibility for anything that happens due to this guide, this guide is written line-by-line correctly for its corresponding use, so no one is responsible if something breaks in the operating system, such as audio or any functionality, or if you or anyone else breaks your hardware, peripherals or Windows installation later or anything else by following this guide incorrectly.
 
-### Descarga:
+### Download:
 
-- El enlace de descarga estará solamente disponible en el Discord de KernelOS. NO descargues la imagen de otras fuentes.
-- Si existe algún tipo de error relacionado con el mismo, contáctanos!
+- The download link will only be available on the KernelOS Discord. DO NOT download the image from other sources.
+- If there is any type of error related to it, contact us!
 
 ## Discord
-¡Anímate y únete al [Discord](https://discord.io/KernelOS) si tienes alguna pregunta!
+Go ahead and join the [Discord](https://discord.io/KernelOS) if you have any questions!
 
-## Aviso
-Al descargar o utilizar esta imagen, aceptas los [Términos de Microsoft](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_Spanish.htm)
+## Warning
+By downloading or using this image, you agree to the [Microsoft Terms](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_Spanish.htm)
